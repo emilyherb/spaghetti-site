@@ -1,0 +1,51 @@
+body{
+    cursor: url("https://img.icons8.com/?size=30&id=66812&format=png"), auto;
+  }
+  
+  h1, h3, p{
+    text-align:center;
+  }
+  p{
+    font-size:18px;
+    font-family:Lucida Console, sans-serif;
+  }
+  h1{
+    font-family:Lucida Console, sans-serif;
+    font-size:45px;
+    color:white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  }
+  a{
+    color:rgb(255,0,127);
+  }
+  a:hover{
+    color:rgb(127,127,127);
+  }
+  main{
+    background-image:url(https://us.123rf.com/450wm/christianchan/christianchan1701/christianchan170100025/70084850-closeup-shot-of-delicious-spaghetti-pasta.jpg);
+    background-attachment:fixed;
+    background-size:auto;
+    padding:20px 20px 40px 20px;
+  }
+  .ranking{
+    padding-left:26%;
+    padding-right:auto;
+  }
+  .homemade{
+     background-color:white;
+    margin:0 300px 0 300px;
+    padding:0 8px 5px 8px;
+    border-radius:20px;
+    border:dotted;
+  }
+  .info{
+    background-color:white;
+    margin:0 300px 0 300px;
+    padding:8px 30px;
+    margin-bottom:25px;
+    border-radius:20px;
+    border:dotted;
+  }
+  .visit{
+    padding-top:20px;
+  }
