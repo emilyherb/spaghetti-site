@@ -25,7 +25,7 @@ body{
     background-image:url(https://us.123rf.com/450wm/christianchan/christianchan1701/christianchan170100025/70084850-closeup-shot-of-delicious-spaghetti-pasta.jpg);
     background-attachment:fixed;
     background-size:auto;
-    margin:20px 20px 40px 20px;
+    padding:20px 20px 40px 20px;
   }
   .ranking{
     padding-left:26%;
@@ -33,15 +33,13 @@ body{
   }
   .homemade{
      background-color:white;
-    margin:0 300px 0 300px;
-    padding:0 8px 5px 8px;
+    margin:auto;
     border-radius:20px;
     border:dotted;
   }
   .info{
     background-color:white;
-    margin:0 300px 0 300px;
-    padding:8px 30px;
+    margin:auto;
     margin-bottom:25px;
     border-radius:20px;
     border:dotted;
