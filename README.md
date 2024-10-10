@@ -1,2 +1,2 @@
 # spaghetti-site
-my fav food
+my fav food!
