@@ -33,13 +33,13 @@ body{
   }
   .homemade{
      background-color:white;
-    margin:auto;
+    margin:0 10%;
     border-radius:20px;
     border:dotted;
   }
   .info{
     background-color:white;
-    margin:auto;
+    margin:0 10%;
     margin-bottom:25px;
     border-radius:20px;
     border:dotted;
